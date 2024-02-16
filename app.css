@@ -9,3 +9,19 @@ body {
 .pagewrapper {
     display: flex;
 }
+
+#certificate>img {
+    display: none;
+}
+
+#certificate.cactuar img#cactuar{
+    display:block;
+}
+
+#certificate.axel img#axel{
+    display:block;
+}
+
+#certificate.deuce img#deuce{
+    display:block;
+}
