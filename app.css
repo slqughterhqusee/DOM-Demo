@@ -59,7 +59,7 @@ input {
     font-family: "Teko", sans-serif;
     position: absolute;
     top: 40%;
-    left: 42%;
+    left: 40%;
     text-align: center;
     font-size: 2.5em;
 }
@@ -67,6 +67,6 @@ input {
 #theDate {
     font-family: "Teko", sans-serif;
     position: absolute;
-    bottom: 30%;
-    left: 40%;
+    bottom: 10%;
+    left: 7%;
 }
